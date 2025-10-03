@@ -14,17 +14,19 @@ A collection of Java solutions for LeetCode problems, showcasing my journey in *
 ```
 leetcode_questions/
 ├── questions/
-│   ├── easy/       # Solved LeetCode questions with Easy difficulty
-│   ├── medium/     # Solved LeetCode questions with Medium difficulty
-│   └── hard/       # Solved LeetCode questions with Hard difficulty
+│   ├── easy/                                   # Solved LeetCode questions with Easy difficulty
+|   |   └── containsDuplicate_217.java
+|   |   └── validAnagram_242.java  
+│   ├── medium/                                 # Solved LeetCode questions with Medium difficulty
+│   └── hard/                                   # Solved LeetCode questions with Hard difficulty
 │
 └── subjects/
-    ├── easy_subjects/
-    │   └── HashSet_217.java        # Easy level HashSet example
-    ├── medium_subjects/
-    │   └── ...                     # Medium level topic examples
-    └── hard_subjects/
-        └── ...                     # Hard level topic examples
+    ├── easy_subjects/                          # Easy level HashSet example
+    │   └── HashSet_217.java       
+    ├── medium_subjects/                        # Medium level topic examples
+    │   └── ...                     
+    └── hard_subjects/                          # Hard level topic examples
+        └── ...                     
 ```
 ---
 
